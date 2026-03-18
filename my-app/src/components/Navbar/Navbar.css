@@ -1,0 +1,23 @@
+/* Navbar.css */
+
+.nav-btn.logout {
+  background-color: transparent;
+  color: #ef4444; /* Crisp red text */
+  border: 1px solid rgba(239, 68, 68, 0.3); /* Subtle red border */
+  padding: 8px 18px;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.nav-btn.logout:hover {
+  /* Soft red fill and glow on hover */
+  background-color: rgba(239, 68, 68, 0.1);
+  border-color: #ef4444;
+  box-shadow: 0 0 12px rgba(239, 68, 68, 0.2);
+}
+
+.nav-btn.logout:active {
+  background-color: rgba(239, 68, 68, 0.2);
+}
