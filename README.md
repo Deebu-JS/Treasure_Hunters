@@ -1,4 +1,4 @@
-________________________________________Project Brief: Student Performance Analyzer
+Project Brief: Student Performance Analyzer
 Executive Summary
 Educational institutions need efficient ways to track academic performance across multiple subjects. Manually calculating these metrics is time-consuming and error-prone. This project solves that by delivering a secure, React-based Single-Page Application (SPA) that automates the calculation of totals, averages, and grades while dynamically highlighting top-performing students in a premium, responsive interface.
 Core Architecture & Features
